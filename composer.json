@@ -1,0 +1,15 @@
+{
+    "name": "fanhehe/testproto",
+    "authors": [
+        {
+            "name": "franfan",
+            "email": "13889441200@163.com"
+        }
+    ],
+    "require": {
+        "google/protobuf": "^3.4"
+    },
+    "scripts": {
+        "test": "php test/test.php"
+    }
+}

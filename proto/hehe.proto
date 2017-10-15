@@ -1,0 +1,11 @@
+syntax = "proto3";
+package fanhehe.hehe;
+
+message Test {
+    int32 id = 1;
+    string name = 2;
+    enum gender {
+        MALE = 0;
+        FEMAILE = 1;
+    }
+}
